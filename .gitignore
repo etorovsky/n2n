@@ -32,3 +32,7 @@
 !/script/.keep
 /vendor/*
 !/vendor/.keep
+
+/db/*.rb
+/db/neo4j/*
+!/db/schema.rb
