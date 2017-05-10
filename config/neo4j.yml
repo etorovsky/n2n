@@ -1,0 +1,11 @@
+development:
+  type: http
+  url: <%= ENV["NEO4J_URL"] %>
+
+test:
+  type: http
+  url: 
+
+production:
+  type: http
+  url: 
